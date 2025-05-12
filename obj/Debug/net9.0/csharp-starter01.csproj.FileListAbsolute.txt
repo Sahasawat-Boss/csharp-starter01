@@ -1,0 +1,14 @@
+D:\Code\09.dotnet-umbraco\csharp-starter01\bin\Debug\net9.0\csharp-starter01.exe
+D:\Code\09.dotnet-umbraco\csharp-starter01\bin\Debug\net9.0\csharp-starter01.deps.json
+D:\Code\09.dotnet-umbraco\csharp-starter01\bin\Debug\net9.0\csharp-starter01.runtimeconfig.json
+D:\Code\09.dotnet-umbraco\csharp-starter01\bin\Debug\net9.0\csharp-starter01.dll
+D:\Code\09.dotnet-umbraco\csharp-starter01\bin\Debug\net9.0\csharp-starter01.pdb
+D:\Code\09.dotnet-umbraco\csharp-starter01\obj\Debug\net9.0\csharp-starter01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\09.dotnet-umbraco\csharp-starter01\obj\Debug\net9.0\csharp-starter01.AssemblyInfoInputs.cache
+D:\Code\09.dotnet-umbraco\csharp-starter01\obj\Debug\net9.0\csharp-starter01.AssemblyInfo.cs
+D:\Code\09.dotnet-umbraco\csharp-starter01\obj\Debug\net9.0\csharp-starter01.csproj.CoreCompileInputs.cache
+D:\Code\09.dotnet-umbraco\csharp-starter01\obj\Debug\net9.0\csharp-starter01.dll
+D:\Code\09.dotnet-umbraco\csharp-starter01\obj\Debug\net9.0\refint\csharp-starter01.dll
+D:\Code\09.dotnet-umbraco\csharp-starter01\obj\Debug\net9.0\csharp-starter01.pdb
+D:\Code\09.dotnet-umbraco\csharp-starter01\obj\Debug\net9.0\csharp-starter01.genruntimeconfig.cache
+D:\Code\09.dotnet-umbraco\csharp-starter01\obj\Debug\net9.0\ref\csharp-starter01.dll
