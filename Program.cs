@@ -1,34 +1,38 @@
-﻿// Chap5
-// Array CRUD
-
-//Create Array
-string[] favoriteRats = ["fancy rat", "brown rat", "radioactive rat"];
-
-//Read
-Console.WriteLine(favoriteRats);
-// iterate through the array to print each
-foreach(var rat in favoriteRats)
+﻿// Chap6
+for(var i = 0; i < 10; i++)
 {
-    Console.WriteLine(rat);
+    Console.WriteLine(i);
 }
 
-Console.WriteLine("------------------------");
+Console.WriteLine("-----------------------");
 
-//Update (Old school)
-favoriteRats[0] = "Fancier rat";
-foreach(var rat in favoriteRats)
+for(var i2 = 1; i2 <= 10; i2++)
 {
-    Console.WriteLine(rat);
+    Console.WriteLine(i2);
 }
 
-Console.WriteLine("------------------------");
+Console.WriteLine("-----------------------");
 
-//Update > new version > use LINQ
-var newFavoriteRats = favoriteRats.Where((e) => e.StartsWith("b"));
-foreach(var rat in newFavoriteRats)
+string[] favoriteName = ["Boss", "Bob","Charlie", "Susie"];
+
+for(var i =0; i < favoriteName.Length; i++)
 {
-    Console.WriteLine(rat);
+    Console.WriteLine(favoriteName[i]);
 }
 
-//Delete Array
-//....
+Console.WriteLine("-----------------------");
+
+foreach(var favName in favoriteName)
+{
+    Console.WriteLine(favName);
+}
+
+Console.WriteLine("-----------------------");
+
+favoriteName.ToList().ForEach((i) =>{
+    Console.WriteLine("ForEach:" + i);
+});
+
+Console.WriteLine("-----------------------");
+
+Array.ForEach(favoriteName, e => Console.WriteLine("Array.ForEach:" + e));
