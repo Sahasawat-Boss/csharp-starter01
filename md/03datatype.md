@@ -17,3 +17,6 @@
 ## Char -
 - Compiler Level
 - is a 1 char for a string 
+
+## Array
+- collection of data type
